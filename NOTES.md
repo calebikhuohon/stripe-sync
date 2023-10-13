@@ -1,6 +1,5 @@
 # Billing Experience Overview
-
-In developing the billing system for Fly.io, the overarching goal was to prioritize the needs of our users. This involved ensuring the billing experience is seamless, predictable, and transparent. Here's a deep dive into my approach:
+The overarching goal was to prioritize the needs of our users. This involved ensuring the billing experience is seamless, predictable, and transparent. Here's a deep dive into my approach:
 
 ## Technical Architecture
 
